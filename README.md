@@ -31,7 +31,7 @@ How does performance in the current year compare to previous years?
 
 What is the YoY growth/decline % for revenue, profit, and customers?
 
-Are we recovering or still trending downward
+Are we recovering or still trending downward?
 
 #### 4. Product Performance
 Which products, categories, and subcategories are driving revenue and profit
@@ -51,7 +51,7 @@ Are we losing existing customers or failing to attract new ones?
 
 Which customer segments contribute the most to revenue and profit?
 
-Are younger or older demographics shifting their buying behavior
+Are younger or older demographics shifting their buying behavior?
 
 #### 6. Store & Regional Performance
 
@@ -99,6 +99,8 @@ Age Groups: Created a calculated column to segment customers into meaningful age
 Created a date table
 This segmentation enables targeted analysis of customer preferences and purchasing behavior across different demographics.
 
+<img width="1436" height="798" alt="Screenshot 2025-09-26 114849" src="https://github.com/user-attachments/assets/59b9832c-3fe7-4414-b838-b14a1c8ce8a9" />
+
 ### Key Insights
 #### Overall Performance
 
@@ -111,11 +113,13 @@ Total Orders: 62.88K (up 2.0% YoY)
 #### Seasonal Patterns
 
 Significant revenue decline in March-April, with recovery beginning in May and stabilization through year-end
-anuary-February: Strong start with revenue peaking around $2.5-3M
+January-February: Strong start with revenue peaking around $2.5-3M
 March Crisis: Dramatic revenue collapse to below $500K (likely COVID-19 impact)
 April: Lowest point of the year (~$400K)
 May-December: Gradual recovery and stabilization at $800K-$1M monthly
-No traditional holiday spike: December shows no significant uptick
+No traditional holiday spike: December shows no significant uptick.
+
+<img width="1436" height="799" alt="Screenshot 2025-09-26 115227" src="https://github.com/user-attachments/assets/df24178b-64d9-4eb9-9ad3-b20cd864ae79" />
 
 #### Customer Demographics
 
@@ -126,6 +130,8 @@ There is a steep loss of customers from 2019-2021.
 Younger demographics (19-39) are not driving growth - all age groups show similar purchasing patterns
 Computer and cell phone purchases are consistent across all ages.
 There is no evidence of age-based behavioral shifts, there is a  loss of customers across all segments, not demographic preference changes.
+
+<img width="1434" height="796" alt="Screenshot 2025-09-26 115415" src="https://github.com/user-attachments/assets/386a92f6-eae3-49ff-b7ed-fa7495e79c92" />
 
 #### Geographic Performance
 
@@ -139,6 +145,8 @@ Peak Performance: Stores operating 14 years ($18.9M revenue)
 Strong Performance: 10 years ($7.7M), 12 years ($1.9M)
 Stores reach peak performance around 10-14 years, then decline as they age.
 Online purchases bring in the most revenue.
+
+<img width="1435" height="797" alt="Screenshot 2025-09-26 115342" src="https://github.com/user-attachments/assets/1dc7245b-9584-4da6-ba2d-ee3f59acea06" />
 
 #### Product Category Insights
 
